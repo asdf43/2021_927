@@ -17,4 +17,4 @@
 
 [NKUST](https://www.nkust.edu.tw/)
 
-😄
+㊙️
