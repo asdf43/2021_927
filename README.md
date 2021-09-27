@@ -29,3 +29,9 @@ This a a long quote.
 - [ ] 2
 - [x] 3
 - [ ] 4
+
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
