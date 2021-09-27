@@ -25,7 +25,7 @@ This is a `text`
 This a a long quote.
 ```
 
-- [x] this is checked
+- [x] 1
 - [ ] 2
 - [x] 3
 - [ ] 4
