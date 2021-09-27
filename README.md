@@ -18,3 +18,14 @@
 [NKUST](https://www.nkust.edu.tw/)
 
 ㊙️
+
+This is a `text`
+
+```
+This a a long quote.
+```
+
+- [x] this is checked
+- [ ] 2
+- [x] 3
+- [ ] 4
